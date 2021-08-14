@@ -1,4 +1,6 @@
 ---
+layout: post
+title: An Ugly Truth
 published: true
 ---
 > If you are not paying for it, you're not the customer; you're the product being sold.
