@@ -20,4 +20,4 @@ Bret Easton Ellis also has a brilliant way of pointing out the flaws of this soc
 
 In conclusion, I never want to read this again, but I have to admit it was pretty interesting read. I ended up reading the whole book in just two days, not because it was particularly great, but because each page left me in a state of suspense. I might check out the movie because it stars Christian Bale.
 
-Overall Rating: 7/10
+**Overall Rating: 7/10**
