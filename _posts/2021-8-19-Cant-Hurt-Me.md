@@ -9,7 +9,7 @@ published: true
 
 > I thought I’d solved a problem when really I was creating new ones by taking the path of least resistance.
 
-!(David Goggin's transformation)[https://pbs.twimg.com/media/E6cOXo6VoAEI6u5.jpg]
+![David Goggin's transformation](https://pbs.twimg.com/media/E6cOXo6VoAEI6u5.jpg)
 
 I've been a fan of David Goggins since his numerous appearances on the Joe Rogan podcast. I find his story to be incredible. David Goggins grew up in a nightmare of a childhood, growing up in a family full of domestic abuse and living in the city where the KKK was founded. In Can't Hurt Me, David Goggins tells his story, his come up from his traumatic past, and his journey as a Navy Seal.
 
