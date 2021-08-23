@@ -1,5 +1,7 @@
 ---
-published: false
+layout: post
+title: Steve Jobs
+published: true
 ---
 > The best way to predict the future is to invent it.
 
