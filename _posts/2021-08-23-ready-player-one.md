@@ -1,5 +1,7 @@
 ---
-published: false
+layout: post
+title: Ready Player One
+published: true
 ---
 > That was when I realized, as terrifying and painful as reality can be, it's also the only place where you can find true happiness. Because reality is real.
 
