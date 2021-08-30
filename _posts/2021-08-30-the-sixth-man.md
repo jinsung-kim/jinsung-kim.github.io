@@ -1,5 +1,7 @@
 ---
-published: false
+layout: post
+title: The Sixth Man
+published: true
 ---
 > If we make enough money, have enough success, then we should be free from all struggles—or more accurately, our struggles are no longer valid. But what most of us find after a while, and much to our surprise, is that even with all the cash and prizes, the question of purpose remains. Pain and suffering still remain.
 
