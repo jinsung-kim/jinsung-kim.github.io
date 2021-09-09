@@ -15,4 +15,4 @@ I wonder what would have happened in Obama never got into politics, or if he had
 
 Overall, this book is written beautifully, and is worth the read. If you are curious about any of his controversies and events, such as his health care act, the economic crisis, or foreign policy, this book is definitely the right place to look. While it is certainly long, there are so many little nuggets of knowledge and experience that make it worthwhile.
 
-**Overall Rating: 9/10**
+**Overall Rating: 8/10**
