@@ -15,4 +15,4 @@ I can see though that despite liking the overall message of this book, some migh
 
 Overall, this book felt like a short collection of stories with a couple insightful messages embedded into it. As someone who always feels stuck in life, I really admired this book and the overview it provides from someone much older than myself.
 
-**Overall Rating: 7/10**
+**Overall Rating: 6/10**
