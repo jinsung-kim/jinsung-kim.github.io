@@ -4,9 +4,9 @@ title: Chaos Monkeys
 layout: post
 ---
 
->> To quote one Valley sage, if your idea is any good, it won’t get stolen, you’ll have to jam it down people’s throats instead.
+> To quote one Valley sage, if your idea is any good, it won’t get stolen, you’ll have to jam it down people’s throats instead.
 
->> Investors are people with more money than time. Employees are people with more time than money. Entrepreneurs are simply the seductive go-betweens.
+> Investors are people with more money than time. Employees are people with more time than money. Entrepreneurs are simply the seductive go-betweens.
 
 ![Cover](https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fknowledge.wharton.upenn.edu%2Fwp-content%2Fuploads%2F2016%2F07%2FChaos-Monkeys-copy.jpg&f=1&nofb=1)
 
