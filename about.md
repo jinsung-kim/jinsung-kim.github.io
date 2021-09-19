@@ -16,10 +16,10 @@ Fashion (runway and cultural), art in general, biographies, philosophy
 
 ### Favorites?
 In no particular order:
-Ametora
-Shoe Dog
-Steve Jobs
-Can't Hurt Me
+- Ametora
+- Shoe Dog
+- Steve Jobs
+- Can't Hurt Me
 
 ### Contact me
 
