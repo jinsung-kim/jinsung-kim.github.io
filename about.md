@@ -11,8 +11,8 @@ A place to where I write my short thoughts on recent books I have read. I have n
 
 I only review books that I have completed - which is the reason the ratings skew towards higher scores.
 
-### Particular Topics I Enjoy Reading
-Fashion (runway and cultural), art in general, biographies, philosophy
+### Particular topics I enjoy
+Fashion (runway and cultural), art in general, biographies, philosophy. I am more of a nonfiction reader.
 
 ### Favorites?
 In no particular order:
