@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Perks of Being a Wallflower
-published: true
+published: false
 ---
 > We accept the love we think we deserve.
 
