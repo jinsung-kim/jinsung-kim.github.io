@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Great Gatsby
+title: The Great Gatsby (Classics Week)
 published: true
 ---
 > Gatsby believed in the green light, the orgastic future that year by year recedes before us. It eluded us then, but that's no matter—to-morrow we will run faster, stretch out our arms farther . .. And one fine morning —— So we beat on, boats against the current, borne back ceaselessly into the past.
