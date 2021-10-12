@@ -16,10 +16,10 @@ Fashion (runway and cultural), art in general, biographies, philosophy. I am mor
 
 ### Favorites?
 In no particular order:
-- Ametora
-- Shoe Dog
-- Steve Jobs
-- Can't Hurt Me
+- [Ametora](https://jinsung-kim.github.io/ametora/)
+- [Shoe Dog](https://jinsung-kim.github.io/shoe-dog/)
+- [Steve Jobs](https://jinsung-kim.github.io/steve-jobs/)
+- [Can't Hurt Me](https://jinsung-kim.github.io/Cant-Hurt-Me/)
 
 ### Contact me
 
