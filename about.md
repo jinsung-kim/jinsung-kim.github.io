@@ -21,8 +21,7 @@ In no particular order:
 - [Steve Jobs](https://jinsung-kim.github.io/steve-jobs/)
 - [Can't Hurt Me](https://jinsung-kim.github.io/Cant-Hurt-Me/)
 
-### Contact me
-
-If you have any book suggestions, feel free to reach out using the bar below.
+### Other information
+I typically listen to <a href="https://lofi.co/" target="_blank">this</a> when I read :)
 
 Thanks for stopping by.
