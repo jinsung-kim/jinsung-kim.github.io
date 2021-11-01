@@ -14,12 +14,16 @@ I only review books that I have completed - which is the reason the ratings skew
 ### Particular topics I enjoy
 Fashion (runway and cultural), art in general, biographies, philosophy. I am more of a nonfiction reader.
 
-### Favorites?
+### Favorite books?
 In no particular order:
 - [Ametora](https://jinsung-kim.github.io/ametora/)
 - [Shoe Dog](https://jinsung-kim.github.io/shoe-dog/)
 - [Steve Jobs](https://jinsung-kim.github.io/steve-jobs/)
 - [Can't Hurt Me](https://jinsung-kim.github.io/Cant-Hurt-Me/)
+
+In terms of journalism, I enjoy:
+- [New York Times](https://www.nytimes.com/)
+- [Business of Fashion](https://www.businessoffashion.com/)
 
 I typically listen to <a href="https://lofi.co/" target="_blank">this</a> when I read :)
 
