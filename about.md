@@ -14,7 +14,7 @@ I only review books that I have completed - which is the reason the ratings skew
 ### Particular topics I enjoy
 Fashion (runway and cultural), art in general, biographies, philosophy. I am more of a nonfiction reader.
 
-### Favorite books?
+### Favorites?
 In no particular order:
 - [Ametora](https://jinsung-kim.github.io/ametora/)
 - [Shoe Dog](https://jinsung-kim.github.io/shoe-dog/)
