@@ -21,10 +21,9 @@ In no particular order:
 - [Steve Jobs](https://jinsung-kim.github.io/steve-jobs/)
 - [Can't Hurt Me](https://jinsung-kim.github.io/Cant-Hurt-Me/)
 
-In terms of journalism, I enjoy:
-- [New York Times](https://www.nytimes.com/)
-- [Business of Fashion](https://www.businessoffashion.com/)
+### Other projects that I may create:
+- Reviewing runway shows, deep dive into certain pieces, moments
+- Highlighting archive fashion that interests me
+- Movie reviews (been watching a lot lately)
 
-I typically listen to <a href="https://lofi.co/" target="_blank">this</a> when I read :)
-
-Thanks for stopping by.
+Thanks for stopping by :)
