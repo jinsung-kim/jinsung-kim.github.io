@@ -1,9 +1,9 @@
 ---
 published: true
 ---
-![Book cover](https://images.macmillan.com/folio-assets/macmillan_us_frontbookcovers_1000H/9780374531263.jpg)
-
 > I was still hesitant to let myself let go, because I still believed in the fragility of happiness.
+
+![Book cover](https://images.macmillan.com/folio-assets/macmillan_us_frontbookcovers_1000H/9780374531263.jpg)
 
 Ishmael Beah is a boy from the country of Sierra Leone, who grows up listening to Run DMC and MC Hammer. One day, when going to a local rap contest, rebels capture the village that he is in, and he is dragged out of his childhood into a child soldier.
 
