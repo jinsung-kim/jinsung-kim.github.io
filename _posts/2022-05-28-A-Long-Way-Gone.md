@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ![Book cover](https://images.macmillan.com/folio-assets/macmillan_us_frontbookcovers_1000H/9780374531263.jpg)
 
