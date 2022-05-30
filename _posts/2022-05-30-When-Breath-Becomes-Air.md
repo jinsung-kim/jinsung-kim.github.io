@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 > There is a moment, a cusp, when the sum of gathered experience is worn down by the details of living. We are never so wise as when we live in this moment.
 
