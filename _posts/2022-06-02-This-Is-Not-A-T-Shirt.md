@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 > It’s not about the clothing, it’s about connecting.
 
