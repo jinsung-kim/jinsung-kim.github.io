@@ -1,4 +1,6 @@
 ---
+layout: post
+title: The Hidden Life of Trees
 published: true
 ---
 > An organism that is too greedy and takes too much without giving anything in return destroys what it needs for life.
