@@ -17,4 +17,4 @@ In conclusion, this book really summarizes well what streetwear has evolved into
 
 [Here is a good interview of Bobby](https://hypebeast.com/2019/6/bobby-hundreds-this-is-not-a-t-shirt-book-release-info-interview)
 
-**Overall Rating: 7.5/10**
+**Overall Rating: 7/10**
