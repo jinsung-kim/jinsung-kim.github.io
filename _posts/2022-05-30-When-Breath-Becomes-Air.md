@@ -11,10 +11,10 @@ Paul’s journey is a bit unique, not only because he has numerous degrees in li
 
 The second half of the book really focuses on the central theme of transition, how he goes from doctor to patient. It took a while for me to process this section, I really hung on every word that he wrote, as I could see his potential and compassion as a doctor. Between all of the medical detail and jargon - the message was eloquently simple - live your life while you can when you have time, and appreciate it in all the ways God allows you to.
 
-My only complaint really of this book was the foreword, which just seems to miss the mark in so many ways. For some reason it really rubbed me the wrong way that someone who had never met or interacted with Paul would start off the piece in such a way. The book could have been without all the excessive verbiage.
+My main complaint really of this book was the foreword, which just seems to miss the mark in so many ways. For some reason it really rubbed me the wrong way that someone who had never met or interacted with Paul would start off the piece in such a way. The book could have been without all the excessive verbiage.
 
 In conclusion, this little book packs a heavy punch, through its beautiful writing and desperate will to live. It’s a bit ironic that a book so revolved around death can really teach me how to live. The way he writes about his approaching demise - the gripping reality tied with his fight to live, leaves a lasting impression on me to push the way that I perceive life.
 
 > Even if I’m dying, until I actually die, I am still living.
 
-**Overall Rating: 9/10**
+**Overall Rating: 8/10**
