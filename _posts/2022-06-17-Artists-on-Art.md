@@ -16,3 +16,5 @@ The book offered short insights onto the different approaches of creatives. It r
 You shouldn’t expect much from this book, because each artist really gets two small pages (one of which is a picture). For me, this book will really just be a coffee table book - easy to dive in to a random page and learn something new, but lacking true substance to understand a person with great depth. This book served as an excellent bridge to the deeper art world as I dive into more textbooks unpacking each historical movement in relation to its era. Who else would be included in this book in a hundred years?
 
 > An artwork unable to make people feel uncomfortable or to feel different is not one worth creating. - Ai Weiwei
+
+**Overall Rating: 6/10**
