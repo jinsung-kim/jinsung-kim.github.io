@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 > You do not rise to the level of your goals. You fall to the level of your systems.
 
