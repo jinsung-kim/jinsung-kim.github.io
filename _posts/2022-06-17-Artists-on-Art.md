@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 > We all want to understand the world better; that is why art is so captivating.
 
