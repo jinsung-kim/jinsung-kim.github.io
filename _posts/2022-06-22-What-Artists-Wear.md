@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 > “This sense of personal performance has only intensified as dress codes have broken down over the past five decades. We have more choice in what we wear, the fashion industry thriving on selling us ideas of who we could be. Many are willing performers, though we may not like to admit it.”
 
