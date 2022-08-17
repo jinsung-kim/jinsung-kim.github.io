@@ -11,4 +11,4 @@ The main selling point for this book is easily the amount of pictures that it of
 
 Fashion journalism when done right can be layered because it has the ability to speak volumes about the society that we live in. The way Porter writes pushed me to think about the artfulness of people, and better understand our language of clothing. I always knew that art and clothing were entwined, but this book really broke down why, and reconstructed my definition of both concepts entirely. After reading What Artists Wear, I will now take a deep look into my own wardrobe and uncover references to better articulate my own language of clothes.
 
-**Overall Rating: 8/10**
+**Overall Rating: 7/10**
