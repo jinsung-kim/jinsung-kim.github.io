@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 > Maybe it’s because she didn’t want to be a dancer growing up, she wanted to be an actress, and maybe Mom only sits in when I’m being the thing she wanted to be.
 
