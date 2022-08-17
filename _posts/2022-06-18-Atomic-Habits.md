@@ -11,4 +11,4 @@ Clear begins with the fundamentals of the human brain and what motivates the sys
 
 Each of the four laws are simple in concept with many examples to follow. The way the book is divided and structured really emphasizes the importance of each step, and it feels that without all of them working together as a whole, our habit system is vulnerable to falling apart. As someone who used to struggle a lot to change habits, this book helped me change my underlying beliefs and identity while motivating me to craft them the right way throughout college. I like to compare my own battles to build habits as a basketball franchise like the Warriors - the culture, environment, and players all need to be built with the right system to thrive over a long period of time. One moment often does not alter the trajectory of our goals and existence. Despite the way it often feels on social media, Atomic Habits reminds me that it’s a marathon, not a race.
 
-**Overall Rating: 9/10**
+**Overall Rating: 8/10**
