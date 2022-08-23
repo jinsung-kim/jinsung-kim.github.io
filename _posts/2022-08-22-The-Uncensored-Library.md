@@ -7,7 +7,7 @@ published: true
 
 This is my first non-book review in which I will showcase the Uncensored Library. The Uncensored Library is a digital home of press freedom dedicated to countries with banned books and media sources. In a world of internet surveillance, blockages, and censorship, it empowers the younger generation by giving them freedom to press. The most interesting thing about this project that it is entirely hosted in the sandbox game Minecraft.
 
-This is done by downloading a Minecraft map in which an entire library is built (or alternatively join a server). Players can walk through this virtual world and find sources banned in their country without being detected, because the source text of the books are hidden and compressed in the game files. Players can read books in Minecraft and go through blocked journalism and various content, thus granting everyone access to the truth.
+This is done by downloading a Minecraft map in which an entire library is built (or alternatively by joining a server). Players can walk through this virtual world and find sources banned in their country without being detected, because the source text of the books are hidden and compressed in the game files. Players can read books in Minecraft and go through blocked journalism and various content, thus granting everyone access to the truth.
 
 ![How books can be accessed](https://techcrunch.com/wp-content/uploads/2020/03/minecraft-books.jpg)
 
