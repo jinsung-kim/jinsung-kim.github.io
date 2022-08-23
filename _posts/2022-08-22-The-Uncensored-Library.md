@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 > Minecraft reveals uncensored library full of banned journalism.
 
