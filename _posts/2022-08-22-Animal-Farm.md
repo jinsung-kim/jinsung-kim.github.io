@@ -1,5 +1,6 @@
 ---
-published: false
+published: true
+title: Animal Farm
 ---
 ![George Orwell’s Animal Farm](https://larb-main-img-cdn.azureedge.net/unsafe/1280x0/filters:format(jpeg)/https%3A%2F%2Fdev.lareviewofbooks.org%2Fwp-content%2Fuploads%2F2013%2F10%2Fanimal-farm-cover-image.jpeg)
 
