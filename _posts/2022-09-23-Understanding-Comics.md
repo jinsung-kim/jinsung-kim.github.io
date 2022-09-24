@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 > By stripping down an image to its essential "meaning", an artist can amplify that meaning in a way that realistic art can't.
 
