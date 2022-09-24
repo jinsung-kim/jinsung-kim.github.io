@@ -3,7 +3,7 @@ published: true
 ---
 > By stripping down an image to its essential "meaning", an artist can amplify that meaning in a way that realistic art can't.
 
-![The two mediums](https://j-nelson.net/wp-content/uploads/2017/12/understanding-comics_049-768x372.jpg)
+![The two mediums](https://news.harvard.edu/wp-content/uploads/2018/09/scott-1500x982.jpg)
 
 A comic book about comics. In _Understanding Comics - The Invisible Art_, Scott McCloud breaks down the art of comic books and explains the forms and functions in this unique media form. He highlights its long history since the Egyptian days to how each era of expression led to create the fusion of frames and language. The best part? It's written as a comic book (brilliant!).
 
