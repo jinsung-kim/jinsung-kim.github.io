@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 > We are a nation adrift. We lack neither wind nor sail, we have no shortage of captains or gear, yet our mighty ship flounders in a sea of partisanship, corruption, and selfishness.
 
