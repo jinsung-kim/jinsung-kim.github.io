@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 
 > Where is the missing cryptoqueen?
@@ -16,6 +16,6 @@ The book does a great job covering the basics of cryptocurrency, how mining bloc
 
 My only complaint of this book is that is stretches out every detail and attempts to dramatize everything for the sake of an interesting read. While it starts off strong, it turns a bit sour near the end where it became theatrically painful. Parts of the story would have served much better as a Wikipedia page or short news article.
 
-Despite all this, the book overall is a great read, especially for true financial crime fans such as myself. It's stunning to know that there are still believers out there, waiting for her return despite all of the facts being uncovered. They are far too deep to back out, so they refuse to believe what is in front of them. We are truly living in a post-truth world.
+Despite all this, the book overall is a great read, especially for true financial crime fans. It's stunning to know that there are still believers out there, waiting for her return despite all of the facts being uncovered. They are far too deep to back out, so they refuse to believe what is in front of them. It shows how greed and pride can hold us all hostage to seeing the truth.
 
 **Overall Rating: 7/10**
