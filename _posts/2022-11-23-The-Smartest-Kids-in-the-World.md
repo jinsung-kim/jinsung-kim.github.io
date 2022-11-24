@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 > “Success,” as Winston Churchill once said, “is going from failure to failure without losing your enthusiasm.”
 
@@ -18,5 +18,3 @@ I recognize that each student is different, and grow in different ways. It feels
 Overall, this book was certainly interesting for me, despite my lack of interest in the field of general education. This book is certainly a good starting point for building change, but there is a lot more discussion to be had that the book only briefly mentions. As someone who has finished the education system and is considered a "successful output", I see how fortunate I was to have the opportunity that I had and the learning environment that I did.
 
 **Overall Rating: 6.5/10**
-
-
