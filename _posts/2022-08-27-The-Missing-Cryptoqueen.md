@@ -18,4 +18,4 @@ My only complaint of this book is that is stretches out every detail and attempt
 
 Despite all this, the book overall is a great read, especially for true financial crime fans. It's stunning to know that there are still believers out there, waiting for her return despite all of the facts being uncovered. They are far too deep to back out, so they refuse to believe what is in front of them. It shows how greed and pride can hold us all hostage to seeing the truth.
 
-**Overall Rating: 7/10**
+**Overall Rating: 6/10**
