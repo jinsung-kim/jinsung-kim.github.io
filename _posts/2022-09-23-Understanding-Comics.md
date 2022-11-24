@@ -15,4 +15,4 @@ This book is a bit misleading with its title - really its main draw is why we sh
 
 It's interesting to think how comics only really use one of our five senses (eyes) but are able to amplify its effect onto the other four senses. The issues of time, panel sequence, audience perception, and artistic style were things that I had not considered to be what makes this form of writing so interesting. This book gave me an appreciation for what is drawn between the frames. This book is really an art and philosophy book disguised as a comic book. Anyone who enjoys "juxtaposed pictorial and other images in deliberate sequence" (McCloud's definition of comics), should give this one a glance.
 
-**Overall Rating: 7.5/10**
+**Overall Rating: 7/10**
