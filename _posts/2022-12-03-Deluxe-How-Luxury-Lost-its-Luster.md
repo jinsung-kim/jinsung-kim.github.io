@@ -1,4 +1,6 @@
 ---
+layout: post
+title: Deluxe - How Luxury Lost its Luster
 published: true
 ---
 
@@ -10,7 +12,7 @@ Dana Thomas is a fashion journalist that many consider to be a must-read in the 
 
 The whole point of fashion consumption as argued by Thomas is that people can buy into the dream of being rich by owning luxury goods. Originally, luxury goods were exclusively for the rich through the great practice of haute couture. As brands increased their appetite, they shifted their focus to the middle class wanting to be like the rich, by lowering the quality of the goods and focusing on advertising and perception for profit. 
 
-As it turns out, once brands reach an inflection point, they rely cheap labor from China to produce goods and rely on celebrities to sell their bottom line. For instance, bags are assembled in third world countries except for the handle. The almost finished bag is brought to Italy for the final stitch such that brands can slap on the "made in Italy" tag, as producing in a poorer country puts the brand in a negative light. Another chapter showed how stores try to create an "artistic" unique showroom for their goods and ended up hiring the same architect once it was shown how profitable it was to design a certain way. Have you noticed how all designer stores have a minimalist museum feel?
+As it turns out, once brands reach an inflection point, they rely cheap labor from China to produce goods and rely on celebrities to sell their bottom line. For instance, bags are assembled in third world countries except for the handle. The almost finished bag is brought to Italy for the final stitch such that brands can slap on the "made in Italy" tag, as producing in a poorer country puts the brand in a negative light. Another chapter showed how stores tried to create an "artistic" unique showroom for their goods and ended up hiring the same architect once it was shown how profitable it was to design a certain way. Have you noticed how all designer stores have a minimalist museum feel?
 
 The book is also full of unimportant histories of each brand from Chanel to Louis Vuitton. While some context for certain chapters is needed - such as the hostile takeovers from Bernard Arnault throughout LVMH, most of the stories were pointless. Over and over again, names are mentioned to the point where it becomes impossible to remember who held which position and for what. The only thing I could remember by the end was that no original creator in the book would have been happy with how their creation turned out in the hand of others.
 
