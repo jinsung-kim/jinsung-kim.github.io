@@ -18,6 +18,6 @@ This book reminded me why I dislike the fashion industry. I love clothes, the in
 
 At the end of the book, Thomas doesn't exactly wrap things up well. While she makes it clear that luxury has definitely lost its original identity by changing demographics for the sake of money, she offers zero solutions to offset this problem or even provide a reason to care. There was a point in its last concluding thoughts to highlight brands that have broken the mold, but she doesn't seem to care. Like the other book I read, the way she settles for the easy narrative hindered me from finishing this book.
 
-> "Who you are" over "what you have"
+For actually good fashion journalism, check out my review on [Ametora](https://jinsung-kim.github.io/ametora/), how Japan became a global leader in the fashion world.
 
 **Overall Rating: 4/10**
