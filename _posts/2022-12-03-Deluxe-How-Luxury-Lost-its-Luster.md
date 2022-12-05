@@ -18,7 +18,7 @@ The book is also full of unimportant histories of each brand from Chanel to Loui
 
 This book reminded me why I dislike the fashion industry. I love clothes, the individual details and the ideas behind the clothes. However, seeing how snobby the industry is, how it preys on materialism and wasteful behavior showed me why I should reconsider how I purchase clothes. It hurts to see the art that I love so much portrayed as just a dollar sign.
 
-At the end of the book, Thomas doesn't exactly wrap things up well. While she makes it clear that luxury has definitely lost its original identity by changing demographics for the sake of money, she offers zero solutions to offset this problem or even provide a reason to care. There was a point in its concluding thoughts to highlight brands that have broken the mold, but she doesn't seem to care. Like the other book I read, the way she settles for the easy narrative hindered me from finishing this book.
+At the end of the book, Thomas doesn't exactly wrap things up well. While she makes it clear that luxury has definitely lost its original identity by changing demographics for the sake of money, she offers zero solutions to offset this problem or even provide a reason to care. While I didn't finish this book, I still feel better equipped to support smaller designers that stay true to their design ethos.
 
 **Overall Rating: 4/10**
 
