@@ -13,10 +13,10 @@ Not only does this book go through Frankl's personal battle of his time, but he 
 
 > To put the question in general terms would be comparable to the question posed to a chess champion: “Tell me, Master, what is the best move in the world?” There simply is no such thing as the best or even a good move apart from a particular situation in a game and the particular personality of one’s opponent. The same holds for human existence. One should not search for an abstract meaning of life. Everyone has his own specific vocation or mission in life to carry out a concrete assignment which demands fulfillment.
 
-While the original memoir of the book was excellent in itself, Frankl loses me a bit in the aftermath of the book. In later editions of the book, Viktor addes several chapters to expand on the ideas and themes of the original edition through insights from his work. While the concepts are profound in their own way - particularly the relationship between spirituality and meaning - it feels quite scattered. He jumps around a lot, and each page feels like a different client that he has had rather than a cohesive narrative, in a way that reads like an encyclopedia.
+While the original memoir of the book was excellent in itself, Frankl loses me a bit in the aftermath of the book. In later editions of the book, Viktor adds several chapters to expand on the ideas and themes of the original edition through insights from his work. While the concepts are profound in their own way - particularly the relationship between spirituality and meaning - it feels quite scattered. He jumps around a lot, and each page feels like a different client that he has had rather than a cohesive narrative, in a way that reads like an encyclopedia.
 
 The search for meaning is one that I constantly search for myself. I look for it in my work, my relationships with friends and family, and even through my spiritual pursuit. Frankl's resilience feeds me hope for my own spirit, and reminds me that I have independence and freedom in choosing my path to fulfillment and happiness.
 
-**Overall Rating: 7.5/10**
+**Overall Rating: 7/10**
 
 P.S. Getting back into the habit of reading - will review more this year :)
