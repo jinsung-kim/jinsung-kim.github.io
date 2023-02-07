@@ -18,3 +18,5 @@ While the original memoir of the book was excellent in itself, Frankl loses me a
 The search for meaning is one that I constantly search for myself. I look for it in my work, my relationships with friends and family, and even through my spiritual pursuit. Frankl's resilience feeds me hope for my own spirit, and reminds me that I have independence and freedom in choosing my path to fulfillment and happiness.
 
 **Overall Rating: 7.5/10**
+
+P.S. Getting back into the habit of reading - will review more this year :)
