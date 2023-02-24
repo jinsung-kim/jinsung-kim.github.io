@@ -15,4 +15,6 @@ For me, there wasn't too much in this book that the original book did not alread
 
 **Overall Rating: 7/10**
 
+Review of the previous book (one of my all time favorites): [Can't Hurt Me](https://jinsung-kim.github.io/Cant-Hurt-Me/)
+
 > We all owe it ourselves to stand for something.
