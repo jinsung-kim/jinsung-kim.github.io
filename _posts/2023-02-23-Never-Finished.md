@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 > I’m haunted by my future goals, not my past failures. I’m haunted by what I may still become. I’m haunted by my own continued thirst for evolution.
 
