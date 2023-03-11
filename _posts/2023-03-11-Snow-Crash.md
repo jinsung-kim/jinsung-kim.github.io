@@ -1,11 +1,11 @@
 ---
-published: false
+published: true
 ---
 > Ideology is a virus.
 
 ![Snow Crash](https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1589842551i/40651883.jpg)
 
-In _Snow Crash_, Neal Stephenson introduces a near future anarcho-capitalistic world full of chaos. Set in the near future, the book primarily follows the story of Hiro Protagonist, a freelance hacker in the Metaverse and pizza deliverer for the Mafia franchise. While this book is advertised as a virtual reality book, I would say that Stephenson focuses much more on making a statement against capitalism by exaggerating the broken state of the country and showing the toxicity of personal freedom.
+In _Snow Crash_, Neal Stephenson introduces an anarcho-capitalistic world full of chaos. Set in the near future, the book primarily follows the story of Hiro Protagonist, a freelance hacker in the Metaverse and pizza deliverer for the Mafia franchise. While this book is advertised as a virtual reality book (in fact the book that coined the term Metaverse), I would say that Stephenson focuses much more on making a statement against capitalism and showing the toxicity of personal freedom.
 
 The heart of the novel circles around the concept of 'snow crash', a computer virus that lives in the real and virtual world that is capable of infecting anything that it touches while frying the brain of anyone who hosts it. The book hones in on how technology affects the world, and how it is distributed according to social class and wealth - and how this power imbalance can lead to dangerous games of power and politics.
 
