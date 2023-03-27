@@ -12,7 +12,7 @@ A place to where I write my thoughts on recent books I have read. I have no inte
 I try to only review books that I have completed - which is the reason the ratings skew towards higher scores. There are many books that I drop in between. There is no commercial incentive for this website, which is how you can verify that my reviews are genuine. There is absolutely no money involved, all thoughts are my own.
 
 ### Particular topics I enjoy
-Certain categories of art, biographies, philosophy. I am more of a nonfiction reader, but am looking to branch into other genres (such as science fiction). I like exploring the human psyche through literature.
+Certain categories of art, biographies, philosophy. I am more of a nonfiction reader, but am looking to branch into other genres.
 If you want to recommend me a book, send me a direct message [@codejin_](https://instagram.com/codejin_/) on Instagram.
 
 ### Favorites?
