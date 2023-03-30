@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 > Unorthodoxy threatens more than the life of a mere individual; it strikes at Society itself.
 
