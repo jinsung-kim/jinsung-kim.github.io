@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 > ‘There is not love of life without despair about life.’
 
@@ -16,4 +16,3 @@ In addition, the simplicity serves to emphasize the novel's take on existentiali
 This book reminds me of all the times that I have stepped in a room and felt out of place. Even though I doubt Camus in his time considered global pandemics and the digital 21st century world in the peak of the Nazi reign, he understood the slippery slope of self isolation and how it could unravel deep beliefs. Camus reminds me that each and every one of us is in fact - nothing more than a stranger.
 
 **Overall Rating: 9/10**
-
