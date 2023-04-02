@@ -3,7 +3,7 @@ published: true
 ---
 > Unorthodoxy threatens more than the life of a mere individual; it strikes at Society itself.
 
-![There's a Peacock series for this book](https://static01.nyt.com/images/2020/07/15/arts/14brave-review/merlin_174045789_cc64ec43-e44f-4b14-bc26-ce1d9fe9e80b-superJumbo.jpg?quality=75&auto=webp)
+![There's a Peacock series for this book](https://upload.wikimedia.org/wikipedia/en/6/62/BraveNewWorld_FirstEdition.jpg)
 
 In _Brave New World_, Aldous Huxley presents a dystopian vision of the future in which society is completely controlled by technology and the state, and individuality is sacrificed in the name of social stability and efficiency. The story takes place in a world where people are genetically engineered and conditioned from birth to fulfill specific roles in society, and where pleasure and consumption are the highest ideals.
 
