@@ -12,7 +12,7 @@ A place to where I write my thoughts on recent books I have read. I have no inte
 I try to only review books that I have completed or have at least read more than half of - which is the reason the ratings skew towards higher scores.
 
 ### Particular topics I enjoy
-Certain categories of art, biographies, philosophy. Books that challenge the rationale of humans and make me rethink about my life.
+Certain categories of art, biographies, philosophy. Books that challenge the rationale of human behavior. Generally, I just love books that stick with me after reading them.
 If you want to recommend me a book, send me a direct message [@codejin_](https://instagram.com/codejin_/) on Instagram.
 
 ### Favorites?
@@ -24,6 +24,6 @@ In no particular order:
 - [Brave New World](https://jinsung-kim.github.io/Brave-New-World/)
 - [The Stranger](https://jinsung-kim.github.io/The-Stranger/)
 
-I have another writing project that you can view [here](https://archived-js.web.app/) where I try to make sense of my life.
+I have another writing project that you can view [here](https://archived-js.web.app/) where you can see my inner monologue about my other interests.
 
 Thanks for stopping by :)
