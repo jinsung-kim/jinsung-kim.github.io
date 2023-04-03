@@ -5,7 +5,7 @@ published: true
 
 ![The Stranger](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/hostedimages/1507384334i/24111720._SX540_.jpg)
 
-Nobel Prize winning author Albert Camus’ academically canonized _The Stranger_ highlights the ironies of enforcing meaning in a void and the absurdities that surround us as humans walking towards the same cold, lifeless fate. ‘Since we're all going to die,’ the protagonist says, ‘it's obvious that when and how don't matter.’ _Le Monde_ ranked it as number one on its 100 books of the century list, so naturally I came into this novel a bit skeptical of its critical acclaim.
+Nobel Prize-winning author Albert Camus' _The Stranger_ highlights the ironies of enforcing meaning in a void and the absurdities that surround us as we all walk towards the same lifeless fate. 'Since we're all going to die,' the protagonist says, 'it's obvious that when and how don't matter.' Le Monde ranked it as number one on its 100 books of the century list, so naturally, I came into this novel a bit skeptical of its critical acclaim.
 
 Despite it's short runspan, _The Stranger_ is certainly worthy of its praise. Even though its writing style can be rather dull and overly simple, I was shocked in the end how each line seemed to play a part in the final outcome of Meursault's ending both physically and mentally. Camus' prose mirrors one of a professional athlete - there is no excessive movement or effort. The writing is incredible efficient, deliberate, and graceful.
 
