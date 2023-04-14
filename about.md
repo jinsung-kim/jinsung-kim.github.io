@@ -4,6 +4,7 @@ title: About
 permalink: /about/
 published: true
 ---
+
 ### What is this?
 
 Welcome...
@@ -12,11 +13,14 @@ A place to where I write my thoughts on recent books I have read. I have no inte
 I try to only review books that I have completed or have at least read more than half of - which is the reason the ratings skew towards higher scores.
 
 ### Particular topics I enjoy
+
 Certain categories of art, biographies, philosophy. Books that challenge the rationale of human behavior. Generally, I just love books that stick with me after reading them.
-If you want to recommend me a book, send me a direct message [@codejin_](https://instagram.com/codejin_/) on Instagram.
+If you want to recommend me a book, send me a direct message [@codejin\_](https://instagram.com/codejin_/) on Instagram.
 
 ### Favorites?
+
 In no particular order:
+
 - [Ametora](https://jinsung-kim.github.io/ametora/)
 - [Shoe Dog](https://jinsung-kim.github.io/shoe-dog/)
 - [Steve Jobs](https://jinsung-kim.github.io/steve-jobs/)

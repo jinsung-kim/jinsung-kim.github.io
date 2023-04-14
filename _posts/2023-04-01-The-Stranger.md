@@ -1,6 +1,7 @@
 ---
 published: true
 ---
+
 > ‘There is not love of life without despair about life.’
 
 ![The Stranger](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/hostedimages/1507384334i/24111720._SX540_.jpg)
@@ -13,6 +14,6 @@ One reason why the novel's simple writing style is so effective is that it mirro
 
 In addition, the simplicity serves to emphasize the novel's take on existentialism. By stripping away the artifice and ornamentation of language, Camus highlights the essential absurdity of human existence and the futility of attempting to find meaning in a meaningless world. The simplicity of the language underscores the novel's central message that life is ultimately incomprehensible and that our attempts to impose order and meaning on it are ultimately futile.
 
-This book reminds me of all the times that I have stepped in a room and felt out of place. Even though I doubt Camus in his time considered global pandemics and the digital 21st century world in the peak of the Nazi reign, he understood the slippery slope of self isolation and how it could unravel deep beliefs. Camus reminds me that each and every one of us is in fact - nothing more than a stranger.
+This book reminds me of all the times that I have stepped in a room and felt out of place. Even though I doubt Camus in his time considered the impact of global pandemics and the digital 21st century world, he understood the slippery slope of self isolation and how it could unravel deep beliefs. Camus reminds me that each and every one of us is nothing more than a stranger.
 
 **Overall Rating: 9/10**
