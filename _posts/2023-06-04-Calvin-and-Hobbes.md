@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 _Calvin and Hobbes_ is a beloved comic strip created by Bill Watterson that ran from 1985 to 1995. The strip primarily revolves around the imaginative adventures of a young boy named Calvin and his stuffed tiger, Hobbes, who comes to life in Calvin's imagination. The strip often captures the essence of suburban life in the American Midwest, with its scenic landscapes, changing seasons, and idyllic neighborhoods. Despite being written before the millenium, Watterson's strip offers a nostalgic element and a timeless appeal.
 
