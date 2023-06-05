@@ -1,6 +1,10 @@
 ---
 published: true
 ---
+> If good things lasted forever, would we appreciate how precious they are?
+
+![Good things](https://preview.redd.it/n4sqcab9qzpy.jpg?auto=webp&s=fb1298f2dcd5ae1072eebe5bcba2395e388ae19e)
+
 _Calvin and Hobbes_ is a beloved comic strip created by Bill Watterson that ran from 1985 to 1995. The strip primarily revolves around the imaginative adventures of a young boy named Calvin and his stuffed tiger, Hobbes, who comes to life in Calvin's imagination. The strip often captures the essence of suburban life in the American Midwest, with its scenic landscapes, changing seasons, and idyllic neighborhoods. Despite being written before the millenium, Watterson's strip offers a nostalgic element and a timeless appeal.
 
 ![Teaching](http://cdn0.sbnation.com/imported_assets/1025854/CH940127_JPG.jpg)
