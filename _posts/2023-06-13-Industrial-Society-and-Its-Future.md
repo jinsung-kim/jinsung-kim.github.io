@@ -10,9 +10,9 @@ With the recent passing of Theodore Kaczynski (also known as the Unabomber), I w
 For those not aware, Theodore Kaczynski was a UC Berkeley professor who was well known for his anarchist takes on technology. He mailed homemade bombs to famous technologists from a remote life in the woods, with the hope to bring to attention his manifesto.
 
 Kaczynski argued that there are roughly three groups of human drives:
-1) Those that can be satisfied with minimal effort.
-2) Those that can be satisfied only at the cost of serious effort.
-3) Those that can never be satisfied no matter the effort.
+1. Those that can be satisfied with minimal effort.
+2. Those that can be satisfied only at the cost of serious effort.
+3. Those that can never be satisfied no matter the effort.
 
 He believed in the _power process_, a fundamental psychological need of human beings to have goals, make efforts to achieve those goals, and experience a sense of autonomy and competence in the process. He claimed that the modern society and technology had restricted society into first category, and made the second obsolete while making the third impossible. 
 
