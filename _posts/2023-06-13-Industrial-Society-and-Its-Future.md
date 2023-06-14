@@ -5,7 +5,7 @@ published: true
 
 ![The Unabomber](https://static01.nyt.com/images/2023/06/11/obituaries/00Kaczynski/00Kaczynski-superJumbo.jpg)
 
-With the recent passing of Theodore Kaczynski (also known as the Unabomber) recently, I wanted to reflect upon his infamous manifesto titled _Industrial Society and Its Future_. This is not a book review, for I do not believe that this would be right given its context. I want to preface by saying that I do not condone the act of violence to spread any message. Please do not mail bombs to people.
+With the recent passing of Theodore Kaczynski (also known as the Unabomber), I wanted to reflect upon his infamous manifesto titled _Industrial Society and Its Future_. This is not a book review, for I do not believe that this would be right given its context. I want to preface by saying that I do not condone the act of violence to spread any message. Please do not mail bombs to people.
 
 For those not aware, Theodore Kaczynski was a UC Berkeley professor who was well known for his anarchist takes on technology. He mailed homemade bombs to famous technologists from a remote life in the woods, with the hope to bring to attention his manifesto.
 
