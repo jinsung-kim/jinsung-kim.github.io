@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 ---
 > THE ’BAD’ PARTS OF TECHNOLOGY CANNOT BE SEPARATED FROM THE ’GOOD’ PARTS.
 
@@ -37,7 +37,7 @@ According to him, things such as glasses (which help the disabled see), and the 
 
 ![Pollution](https://www.innovationnewsnetwork.com/wp-content/uploads/2020/10/remove-carbon-dioxide-1536x864.jpg)
 
-While this holds some truth, resetting to before the Industrial revolution seems to ignore a lot of the benefits that society has given us. What fails to land with me is the romantic idea of a ‘primitive society’. It fails to appreciate the many innovations that have undoubtably made society better. Through the Industrial Revolution, our ancestors were able to purge extreme rates of violence, improve low life expectancy, and the benefit of modern medicine and sanitation.
+While this holds some truth, resetting to before the Industrial revolution seems to ignore a lot of the benefits that society has given us. What fails to land with me is the romantic idea of a ‘primitive society’. It fails to appreciate the many innovations that have undoubtably made society better. Through the Industrial Revolution, our ancestors were able to purge extreme rates of violence and improve life expectancy greatly with modern medicine and sanitation.
 
 To claim that past societies were better off as they were more psychologically attuned to their lifestyle feels extremely shortsighted. There is more control lost and more stability in a primitive world against the forces of nature than the upside might present. Is the freedom to chase these primitive drives better than the time that our streamlined society provides us?
 
