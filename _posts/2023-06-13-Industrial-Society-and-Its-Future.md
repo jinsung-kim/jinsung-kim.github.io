@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 > THE ’BAD’ PARTS OF TECHNOLOGY CANNOT BE SEPARATED FROM THE ’GOOD’ PARTS.
 
