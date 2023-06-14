@@ -35,12 +35,10 @@ He claims however, as time goes on, these things become involuntary, and eventua
 
 According to him, things such as glasses (which help the disabled see), and the fridge (which increases the duration of food) are irrefutably good. The issue comes afterwards, when mass adoption create wasteful supply chains and cannot be undone.
 
-![Pollution](https://www.innovationnewsnetwork.com/wp-content/uploads/2020/10/remove-carbon-dioxide-1536x864.jpg)
-
 While this holds some truth, resetting to before the Industrial revolution seems to ignore a lot of the benefits that society has given us. What fails to land with me is the romantic idea of a ‘primitive society’. It fails to appreciate the many innovations that have undoubtably made society better. Through the Industrial Revolution, our ancestors were able to purge extreme rates of violence and improve life expectancy greatly with modern medicine and sanitation.
 
 To claim that past societies were better off as they were more psychologically attuned to their lifestyle feels extremely shortsighted. There is more control lost and more stability in a primitive world against the forces of nature than the upside might present. Is the freedom to chase these primitive drives better than the time that our streamlined society provides us?
 
 Considering all this, the Unabomber reminds me of the very thin line between genius and insanity. While his analysis of the environment, society, and technology is spot on, his attempts to put it all together fail miserably. Another figure with a similar story that comes to mind is Terry Davis, the schizophrenic programmer who created TempleOS from scratch, convinced that he was chosen by God to speak to the masses. These individuals possessed remarkable intelligence and talents within their respective fields, but it is clear that their mental illnesses intertwined with their creative abilities. While their endings were tragic, their lives serve as a testament to the ideas that emerge from embracing individuality and nonconformity.
 
-I struggled for days to trim down this critique/summary. I strongly recommend reading through it on your own [here](https://www.washingtonpost.com/wp-srv/national/longterm/unabomber/manifesto.text.htm)
+I struggled for days to trim down this critique/summary. I strongly recommend reading through it on your own [here](https://www.washingtonpost.com/wp-srv/national/longterm/unabomber/manifesto.text.htm).
