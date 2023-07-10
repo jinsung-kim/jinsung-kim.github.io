@@ -9,12 +9,12 @@ The strongest point of this book is how deep Ripley digs into the core issues of
 
 Without getting too deep into the main draw of the book, some of the main takeaways from the book were surprising to me:
 
-1. Schools should aim to allocate resources to hiring and growing good teachers than technology. Being selective about teachers builds trust for teachers to build their own cirriculum and choose their own material.
-2. Don't put labels onto students (such as gifted, vocational) if possible, and do so later if needed.
+1. Schools should aim to allocate resources to hiring and growing good teachers rather than technology. Being selective about teachers builds trust for teachers to build their own cirriculum and choose their own material.
+2. Don't put labels onto students (such as gifted, vocational) if possible, and do so later if needed. The _gifted child syndrome_ is a real thing.
 3. Expect a great deal from students, regardless of the differences that they bring into the classroom.
 
-I recognize that each student is different, and grows in different ways. It feels pointless even to use a standardized test to measure intelligence, especially when it comes in so many different forms. My only complaint with this book was that Ripley overemphasizes test scores (PISA scores) as the main pillar of her arguments. How can this test be the only unit of intelligence in the book? How come the SAT or other tests were only briefly talked about despite her acknowledgement of there being no perfect test? This overreliance of the PISA test with the small sample size retracted a lot of her ideas.
+I recognize that each student is different, and grows in different ways. It feels pointless even to use a standardized test to measure intelligence, especially when it comes in so many different forms. My only complaint with this book was that Ripley overemphasizes test scores (PISA scores) as the main pillar of her arguments. How can this test be the only main unit of intelligence in the book? How come the SAT or other tests were only briefly talked about despite her acknowledgement of there being no perfect test? This overreliance of the PISA test with the small sample size retracted a lot of her ideas.
 
-Overall, this book was certainly interesting for me, despite my lack of interest in the field of general education. This book is certainly a good starting point for building change, but there is a lot more discussion to be had that the book only briefly mentions. As someone who has finished the education system and is considered a "successful output", I see how fortunate I was to have the opportunity that I had and the learning environment that I did.
+Overall, this book was certainly interesting for me, despite my lack of interest in the field of general education. As someone who has finished the education system and is considered a "successful output", I see how fortunate I was to have the opportunity that I had and the learning environment that I did.
 
 **Overall Rating: 6/10**
