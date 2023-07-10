@@ -17,10 +17,10 @@ The most endearing quality of Calvin and Hobbes is its ability to transform the 
 
 ![Imitation](https://static1.cbrimages.com/wordpress/wp-content/uploads/2023/04/calvin-imitating-his-dad.jpg?q=50&fit=crop&w=750&dpr=1.5)
 
-In a lot of ways, Calvin's constant battle to escape the mundane mirrors the existential yearning found in Albert Camus' The Stranger. In both stories, the protagonist seek answers and meaning of an unresponsive world. The absurdity of existence, as portrayed in Camus' work, resonates with Calvin's questioning nature and his attempts to find purpose in a world that often appears confusing and unyielding.
+In a lot of ways, Calvin's constant battle to escape the mundane mirrors the existential yearning and questioning found in a lot of other books that I like. I love the different reactions characters have as they attempt to seek answers and meaning of an unresponsive world. The absurdity of existence, resonates in this strip with Calvin's questioning nature and his attempts to find purpose in a world that often appears confusing and unyielding.
 
 ![Speck in the Universe](https://u.osu.edu/rudolph1023/files/2016/04/Calvin-_amp_-Hobbes-I_m-Significant-29fz9gj.jpg)
 
 Calvin and Hobbes serves as a great reminder to seek out the portals of adventure in the midst of the mundane. It encourages us to approach life with that childlike curiosity, and learn to appreciate the simplest moments. Watterson prompts us to live in the present, even in the moments of boredom and stillness. Given our fast paced technology driven world, Calvin and Hobbes reminds me to disconnect more frequently and explore the outdoors.
 
-**Overall Rating: 9/10**
+**Overall Rating: 8/10**
