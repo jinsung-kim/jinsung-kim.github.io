@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 > Contradictions do not exist. Whenever you think that you are facing a contradiction, check your premises. You will find that one of them is wrong.
 
