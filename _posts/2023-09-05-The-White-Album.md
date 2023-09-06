@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 > We tell ourselves stories in order to live... We look for the sermon in the suicide, for the social or moral lesson in the murder of five. We interpret what we see, select the most workable of the multiple choices.
 
@@ -19,4 +19,4 @@ I've come to the realization that it's often the seemingly ordinary aspects of l
 
 Rest in peace you beautiful soul.
 
-Overall: 10/10
+**Overall Rating: 10/10**
