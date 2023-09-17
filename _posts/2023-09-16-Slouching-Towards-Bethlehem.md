@@ -28,3 +28,5 @@ The way she summarizes her time in New York was the conclusion that I came up wi
 In Joan Didion's experiences, I find a mirror reflecting my own journey. While the specific events that shaped her time and mine may differ, her perspective resonates deeply with my own experiences in California and New York. What’s truly mind blowing is that each essay really fits the overall theme of Yeats’ haunting poem. She perfectly describes the gradual buildup of societal turmoil and the subsequent disintegration of established centers.
 
 > The darkness drops again but now I know, we loved with a love that was more than love, that twenty centuries of stony sleep, were vexed to nightmare by a rocking cradle, and what rough beast, its hour come round at last, slouches towards Bethlehem to be born?
+
+**Overall Rating: 9/10**
