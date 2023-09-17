@@ -15,7 +15,7 @@ In the subsequent essay, Didion openly acknowledges her fixation on the construc
 
 The longest piece is the titled _Slouching Towards Bethlehem_, where Didion covers the Haight-Ashbury district of San Francisco during the hippie movement and the Summer of Love. She writes:
 
-“The stories are endless, infinitely familiar, traded by the faithful like baseball cards, fondled until they fray around the edges and blur into the apocryphal.”
+> The stories are endless, infinitely familiar, traded by the faithful like baseball cards, fondled until they fray around the edges and blur into the apocryphal.
 
 Didion exposes the hidden complexities of this era. She delves into the disillusionment experienced by the 'lost children' and the folly of their idealistic pursuits that drew them to the district. She reports on the communal living, the rebellion, and the drug use, particularly the prevalence of drugs like LSD and the optimism, chaos, and unravelling it all brought. As a frequent visitor of the Haight-Ashbury district, her examination of the counter culture zeitgeist was captivating.
 
