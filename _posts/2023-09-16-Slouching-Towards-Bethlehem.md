@@ -29,4 +29,4 @@ In Joan Didion's experiences, I often find a mirror to my journey. While the spe
 
 **Overall Rating: 9/10**
 
-Afterthoughts: I'm quite honestly scared to continue reading, because I know there is a point where it all ends.
+Afterthought: I'm quite honestly scared to continue reading, because I know there is a point where it all ends. Its made me realize how fragile life is (in sort of a beautiful way?)
