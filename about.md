@@ -8,7 +8,7 @@ published: true
 ### What is this?
 
 Welcome...
-A place to where I write my thoughts on recent books I have read. I have no intention of this becoming big. Due to the volume of books that I read, it is often easy for myself to forget which to recommend to others. For this reason, this site is mainly for others to find interesting books and for myself to reflect on the literature that I come across.
+A place to where I write my thoughts on recent books I have read. I have no intention of this becoming big. Due to the volume of books that I read, it is often easy for myself to forget which to recommend to others. For this reason, this site is mainly for others to find interesting books and for myself to reflect on the literature that I come across. There is no financial gain here, which is how you can know my thoughts are genuine.
 
 I try to only review books that I have completed or have at least read more than half of (this is a rare case) - which is the reason the ratings skew towards higher scores.
 
@@ -20,7 +20,7 @@ Certain categories of art, biographies, philosophy. Anything that sticks with me
 
 In no particular order:
 
-- [The White Album](https://jinsung-kim.github.io/The-White-Album/)
+- [The White Album (or anything Joan Didion)](https://jinsung-kim.github.io/The-White-Album/)
 - [Ametora](https://jinsung-kim.github.io/ametora/)
 - [Shoe Dog](https://jinsung-kim.github.io/shoe-dog/)
 - [Steve Jobs](https://jinsung-kim.github.io/steve-jobs/)
