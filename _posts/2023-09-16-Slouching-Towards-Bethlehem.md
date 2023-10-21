@@ -27,6 +27,6 @@ In Joan Didion's experiences, I often find a mirror to my journey. While the spe
 
 > The darkness drops again but now I know, we loved with a love that was more than love, that twenty centuries of stony sleep, were vexed to nightmare by a rocking cradle, and what rough beast, its hour come round at last, slouches towards Bethlehem to be born?
 
-**Overall Rating: 9/10**
+**Overall Rating: 8/10**
 
 Afterthought: I'm quite honestly scared to continue reading, because I know there is a point where it all ends. Its made me realize how fragile life is (in sort of a beautiful way?)
