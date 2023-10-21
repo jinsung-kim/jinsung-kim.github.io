@@ -27,4 +27,4 @@ This book opened my eyes to how my mind had become entangled in the web of socia
 
 > What steps do you plan to take to reduce the conflict in the Middle East? Or the rates of inflation, crime and unemployment? What are your plans for preserving the environment or reducing the risk of nuclear war? What do you plan to do about NATO, OPEC, the CIA, affirmative action, and the monstrous treatment of the Baha'is in Iran? I shall take the liberty of answering for you: You plan to do nothing about them.
 
-**Overall Rating: 8/10**
+**Overall Rating: 7/10**
