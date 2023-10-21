@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 > Americans no longer talk to each other, they entertain each other. They do not exchange ideas, they exchange images. They do not argue with propositions; they argue with good looks, celebrities and commercials.
 
