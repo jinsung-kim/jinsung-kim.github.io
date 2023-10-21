@@ -19,4 +19,4 @@ Being a dystopian novel, it’s perfectly fair to compare this with _1984_. Whil
 
 > What Orwell feared were those who would ban books. What Huxley feared was that there would be no reason to ban a book, for there would be no one who wanted to read one. Orwell feared those who would deprive us information. Huxley feared those who would give us so much that we would be reduced to passivity and egoism. Orwell feared that the truth would be concealed from us. Huxley feared the truth would be drowned in a sea of irrelevance. Orwell feared we would become a captive culture. Huxley feared we would become a trivial culture ... As Huxley remarked in 'Brave New World revisited,' the civil libertarians and rationalists who are ever on the alert to oppose tyranny 'failed to take into account man's almost infinite appetite for distractions.' ... In short, Orwell feared that what we hate will ruin us. Huxley feared that what we love will ruin us.
 
-**Overall Rating: 8.5/10**
+**Overall Rating: 8/10**
