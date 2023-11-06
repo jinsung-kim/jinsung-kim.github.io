@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 > What is called a reason for living is also an excellent reason for dying.
 
