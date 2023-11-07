@@ -13,4 +13,4 @@ The book is chronological, so each chapter and short essay feels like a new them
 
 Born a Crime does what most books cannot do - weave between the line of a comedy and a tragedy. The honesty contained in this book and the raw storytelling allow me to reflect how pain can often shape our lives and mold us to be the way that we are.
 
-**Overall Rating: 8.5/10**
+**Overall Rating: 8/10**
