@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 ---
 
 > Most of us have two lives. The life we live, and the un-lived life within us. Between the two stands Resistance.
