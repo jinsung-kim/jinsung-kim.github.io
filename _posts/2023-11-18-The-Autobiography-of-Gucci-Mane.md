@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 > As far back as I can remember, I really just wanted to get me some money.
 
