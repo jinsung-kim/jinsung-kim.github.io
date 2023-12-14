@@ -7,7 +7,7 @@ published: true
 
 > Picasso had a saying - 'good artists copy, great artists steal' - and we have always been shameless about stealing great ideas.
 
-![Jobs](https://www.washingtonian.com/wp-content/uploads/2015/09/stevejobs1.jpg)
+![Jobs](https://duet-cdn.vox-cdn.com/thumbor/0x0:706x644/1200x800/filters:focal(353x322:354x323):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/13874040/stevejobs.1419962539.png)
 
 As someone who has always been curious about Silicon Valley during its come up, this book really scratched that itch for me. This book covers Steve Jobs' life as a whole, from the story of his adoption to his unfortunate end. It goes through in intricate detail each product that Jobs envisioned (whether good or bad), his ideology for his products, and the incredible team that he built to create the company that we all love today. He revolutionized technological and entertainment industries by successfully blending technology and the liberal arts - giving consumers products they didn't even know they wanted.
 
