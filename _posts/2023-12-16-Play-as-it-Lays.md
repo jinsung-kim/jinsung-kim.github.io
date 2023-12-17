@@ -13,7 +13,7 @@ Maria's mental unraveling serves as a poignant reflection of the feminist moveme
 
 There is a very arid quality in all of the conversations throughout. The relationships between spouses and agents are all so phony and inane. Didion perfectly weaves together through the dialogue a distant feeling of isolation. The metaphorical presence of snakes in the world becomes a poignant symbol, embodying both literal dangers and the heinous nature of deceit. The cracks, dust, memories, and human connections, come out to nothing in the end. Yet, Maria must push forward, not because she wants to, but because she doesn't know what else she wants.
 
-The novel makes more sense with context to Didion's own perspective to life - her own battles with anxiety and despair that comes through her other writings. The blanket of disillusionment that she crafts, made this book really difficult to read. The narrative unfolds with a strange warmth, gradually allowing the strangeness to seep in, creating an unsettling yet oddly familiar sense of alienation and distance.
+The novel makes more sense with context to Didion's own perspective to life particularly her own battles with anxiety and despair. The blanket of disillusionment that she crafts, made this book really difficult to read. The narrative unfolds with a strange warmth, gradually allowing the strangeness to seep in, creating an unsettling yet oddly familiar sense of alienation and distance.
 
 **Overall Rating: 7/10**
 
