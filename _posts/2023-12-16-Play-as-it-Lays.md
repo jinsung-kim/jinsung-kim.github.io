@@ -1,9 +1,9 @@
 ---
 published: true
 ---
-![Play as it Lays](https://m.media-amazon.com/images/I/51gYqSfSESL._SL500_.jpg)
-
 > I know what "nothing" means, and keep on playing.
+
+![Play as it Lays](https://m.media-amazon.com/images/I/51gYqSfSESL._SL500_.jpg)
 
 Set against the backdrop of the glamorous Hollywood hills and the vast Nevada desert, _Play It as It Lays_, written by Joan Didion, unfolds the narrative of Maria Wyeth, a 31-year-old unsuccessful actress and model. The story delves into her contemplation of the events leading up to her nervous breakdown and subsequent institutionalization at a psychiatric facility. Maria's days are consumed by aimless drives through the desert and meaningless social interactions, as she grapples with an elusive search for something beyond her current existence.
 
