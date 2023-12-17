@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ![Play as it Lays](https://m.media-amazon.com/images/I/51gYqSfSESL._SL500_.jpg)
 
