@@ -8,13 +8,13 @@ published: true
 ### What is this?
 
 Welcome...
-A place to where I write my thoughts on recent books I have read. I have no intention of this becoming big. Due to the volume of books that I read, it is often easy for myself to forget which to recommend to others. For this reason, this site is mainly for others to find interesting books and for myself to reflect on the literature that I come across. There is no financial gain here, which is how you can know my thoughts are genuine.
+A place to where I write my thoughts on recent books I have read. Due to the volume of books that I read, it is often easy for myself to forget which to recommend to others. For this reason, this site is mainly for others to find interesting books and for myself to reflect on the literature that I come across. I tend to retain more information when I write.
 
 I try to only review books that I have completed or have at least read more than half of (this is a rare case) - which is the reason the ratings skew towards higher scores.
 
 ### Particular topics I enjoy
 
-Certain categories of art, biographies, philosophy. Anything that sticks with me afterwards.
+Certain categories of art, biographies, philosophy. I lean more in favor of nonfiction writing.
 
 ### Favorites?
 
