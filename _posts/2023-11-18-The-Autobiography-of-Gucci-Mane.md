@@ -11,6 +11,6 @@ Radric Delantic Davis transformed into Gucci Mane in East Atlanta, navigating th
 
 Gucci Mane's journey teetered on the edge of potential derailment at multiple points, due to his erratic behavior. Persistent incarcerations, entanglements in violence, street affiliations, and a battle with drug addiction repeatedly deprived him of his freedom. His network of lawyers, coupled with unwavering support from his record label, orchestrated his bailouts, employing every legal maneuver to navigate the challenges he faced. This aspect of his story provides a fascinating glimpse into the complexities of the criminal justice system, exposing the treatment and handling of repeat offenders.
 
-The only notable critique I have is that at certain crucial junctures in his story, Davis appears to hold back or downplay his actions. Despite maintaining a consistently honest tone throughout the memoir, he notably skips over pivotal moments, particularly those related to his two separate murder charges. Despite these occasional lapses, the memoir as a whole offers an enjoyable and unorthodox experience.
+The only notable critique I have is that at certain crucial turning points in his story, Davis appears to hold back or downplay his actions. Despite maintaining a consistently honest tone throughout the memoir, he notably skips over pivotal moments, particularly those related to his two separate murder charges. Despite these occasional lapses, the memoir as a whole offers an enjoyable and unorthodox experience.
 
 **Overall Rating: 6/10**
