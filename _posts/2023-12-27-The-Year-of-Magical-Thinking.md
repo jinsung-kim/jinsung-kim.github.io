@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 
 > We are not idealized wild things. We are imperfect mortal beings, aware of that mortality even as we push it away, failed by our very complication, so wired that when we mourn our losses we also mourn, for better or for worse, ourselves.
