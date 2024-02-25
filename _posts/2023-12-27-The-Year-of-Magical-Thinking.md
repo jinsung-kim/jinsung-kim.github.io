@@ -16,4 +16,4 @@ There wasn't much that was "magical" per se about this book from an outsider's p
 
 > I could not count the times during the average day when something would come up that I needed to tell him. This impulse did not end with his death. What ended was the possibility of response.
 
-**Overall Rating: 6`/10**
+**Overall Rating: 6/10**
