@@ -12,9 +12,14 @@ A place to where I write my thoughts on recent books I have read. Due to the vol
 
 I try to only review books that I have completed or have at least read more than half of (this is a rare case) - which is the reason the ratings skew towards higher scores.
 
+### Currently Reading
+
+1. Infinite Jest (this one will take a while) - David Foster Wallace
+2. Inverting the Pyramid - Jonathan Wilson
+
 ### Particular topics I enjoy
 
-Certain categories of art, biographies, philosophy. I lean more in favor of nonfiction writing.
+Certain categories of art, biographies, philosophy. I prefer nonfiction writing.
 
 ### Favorites?
 
