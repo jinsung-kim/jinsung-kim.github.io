@@ -10,16 +10,11 @@ published: true
 Welcome...
 A place to where I write my thoughts on recent books I have read. Due to the volume of books that I read, it is often easy for myself to forget which to recommend to others. For this reason, this site is mainly for others to find interesting books and for myself to reflect on the literature that I come across. I tend to retain more information when I write.
 
-I try to only review books that I have completed or have at least read more than half of (this is a rare case) - which is the reason the ratings skew towards higher scores.
-
-### Currently Reading
-
-1. Infinite Jest (this one will take a while) - David Foster Wallace
-2. Inverting the Pyramid - Jonathan Wilson
+I try to only review books that I have completed or have at least read more than half of - which is the reason the ratings skew towards higher scores. Books not completed are marked with a **DNF**.
 
 ### Particular topics I enjoy
 
-Certain categories of art, biographies, philosophy. I prefer nonfiction writing.
+Biographies, philosophy, short essays/journalism. I lean towards non fiction, but am open minded to all suggestions :)
 
 ### Favorites?
 
@@ -32,6 +27,6 @@ In no particular order:
 - [Brave New World](https://jinsung-kim.github.io/Brave-New-World/)
 - [The Stranger](https://jinsung-kim.github.io/The-Stranger/)
 
-I have another writing project that you can view [here](https://archived-js.web.app/) where you can see my inner monologue about my other interests.
+I write [here](https://archived-js.web.app/) occasionally - about clothes usually, but I'm looking to turn it into something else soon.
 
-Thanks for stopping by :)
+If you made it this far, thanks for checking my little pocket of the internet.
