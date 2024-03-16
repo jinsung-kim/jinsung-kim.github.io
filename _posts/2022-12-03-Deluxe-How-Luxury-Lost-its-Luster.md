@@ -20,6 +20,6 @@ This book reminded me why I dislike the fashion industry. I love clothes, the in
 
 At the end of the book, Thomas doesn't exactly wrap things up well. While she makes it clear that luxury has definitely lost its original identity by changing demographics for the sake of money, she offers zero solutions to offset this problem or even provide a reason to care. While I didn't finish this book, I still feel better equipped to support smaller designers that stay true to their design ethos.
 
-**Overall Rating: 4/10**
+**DNF**
 
 P.S. I by no means dislike fashion journalism as a whole. Check out my review on [Ametora](https://jinsung-kim.github.io/ametora/) :)
