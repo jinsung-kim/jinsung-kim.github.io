@@ -1,3 +1,6 @@
+---
+published: true
+---
 > I received 500,000 discrete bits of information today," he once said, "of which maybe 25 are important. My job is to make some sense of it.
 
 ![Consider the Lobster](https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1388854217i/6751.jpg)
