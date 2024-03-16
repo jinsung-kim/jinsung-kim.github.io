@@ -13,4 +13,4 @@ Despite the interesting concept, it's very disappointing when a novel leaves me 
 
 In conclusion, the novelty of the writing style of Stephenson while unique, grows unbearable rather quickly. After reading the first few pages, it is clear to me that this book would have served better as a comic book or a movie. The clumsily thrown together infodumps, unsteady narrative, and infinite layers of complexity within the plot, lead this book feeling extremely awkward and disjointed. I came into this book hearing the highest praise from notable computer scientists, but was ultimately disappointed with what I got. While Stephenson creates an interesting world, encompasses a lot of interesting concepts and entertains with his satire, it all inevitably falls apart and crashes in the end.
 
-**Overall Rating: 3/10**
+**DNF**
