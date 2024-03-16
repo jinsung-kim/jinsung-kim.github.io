@@ -17,4 +17,4 @@ I wish Rand had taken more time to explore the grey area between capitalism and 
 
 In conclusion, the writing in _Atlas Shrugged_ feels clunky, and given its length, falls apart numerous times. When it works, it's done quite well, but there are many scenes that are dragged on way too long. The pace of the book is incredibly slow, until the final third when it accelerates rapidly. While I'm glad I stepped outside my comfort zone with _Atlas Shrugged_, its dishonesty and refusal to debate the theoretical framework she creates made it hard for me to appreciate fully. The entire book could have been chopped down into two or three beautiful scenes, or just released as the 60 page monologue.
 
-**Overall Rating: 5/10**
+**DNF**
