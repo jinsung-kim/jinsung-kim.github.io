@@ -5,7 +5,7 @@ published: true
 
 ![Miss Didion](https://www.saturdayeveningpost.com/wp-content/uploads/satevepost/2017-06-13-joan-didion.jpg)
 
-Named after the William Butler Yeats poem _"The Second Coming"_, _Slouching Towards Bethlehem_ is Joan Didion’s first collection of 20 essays that reflects on the social and cultural movements of the 60s. While the title references one of the essays in the collection (deemed one of her best works), Didion covers her perspective of counter culture in the 60s while hinting at the slow collapse of society.
+Named after the William Butler Yeats poem _The Second Coming_, _Slouching Towards Bethlehem_ is Joan Didion’s first collection of 20 essays that reflects on the social and cultural movements of the 60s. While the title references one of the essays in the collection (deemed one of her best works), Didion covers her perspective of counter culture in the 60s while hinting at the slow collapse of society.
 
 As per my last review of [The White Album](https://jinsung-kim.github.io/The-White-Album/), Didion continues (or in this case precedes) what she did best in _The White Album_. She unravels the intricate social and cultural idiosyncrasies of the era. In many of her essays, pervasive cynicism in American politics is carefully woven in. Didion's writing captures the atmosphere in a way that a dozen movies/documentaries could altogether.
 
