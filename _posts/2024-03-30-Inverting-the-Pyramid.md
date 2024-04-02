@@ -19,4 +19,4 @@ The book concludes by examining Pep Guardiola's reign at Barcelona, which spearh
 
 **Overall Rating: 8/10**
 
-Post review thoughts: If this book was about anything other than football, I don't think I would have finished it. Not sure I would recommend this to friends, but regardless the best sports book I have read.
+Post review thoughts: If this book was about anything other than football, I don't think I would have finished it. Not sure I would recommend this to friends, but I would say that this is the best sports book I have read.
