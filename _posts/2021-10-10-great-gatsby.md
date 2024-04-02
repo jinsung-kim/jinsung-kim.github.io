@@ -5,7 +5,7 @@ published: true
 ---
 > Gatsby believed in the green light, the orgastic future that year by year recedes before us. It eluded us then, but that's no matter—to-morrow we will run faster, stretch out our arms farther . .. And one fine morning —— So we beat on, boats against the current, borne back ceaselessly into the past.
 
-![The Great Gatsby](https://images.thestar.com/content/dam/thestar/entertainment/movies/2013/05/09/the_great_gatsby_the_movie_boosts_sales_of_the_great_gatsby_the_book/the_great_gatsby.jpg)
+![The Great Gatsby](https://d28hgpri8am2if.cloudfront.net/book_images/onix/cvr9781982146702/the-great-gatsby-9781982146702_xlg.jpg)
 
 We are starting off Classics Week with one of my favorite books of all time - The Great Gatsby, written by F. Scott Fitzgerald. On the surface, the Great Gatsby is simply a failed love story between a man and a woman. However, the book is so much more than just that. Through the short timeline of the book set in the summer of 1922 in New York, the book manages to paint a very vivid picture of 1920s America relating to moral values such as greed, consumption, and pleasure. Fitzgerald gives us a deep look into the upper class during this era. It follows Nick Carraway, a Yale graduate from Minnesota moving into the West Egg, a neighborhood for people with newly found wealth in New York.
 
