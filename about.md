@@ -27,6 +27,4 @@ In no particular order:
 - [Brave New World](https://jinsung-kim.github.io/Brave-New-World/)
 - [The Stranger](https://jinsung-kim.github.io/The-Stranger/)
 
-I write [here](https://archived-js.web.app/) occasionally - about clothes usually, but I'm looking to turn it into something else soon.
-
 If you made it this far, thanks for checking my little pocket of the internet.
