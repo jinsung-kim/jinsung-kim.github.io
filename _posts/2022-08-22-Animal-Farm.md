@@ -4,7 +4,7 @@ title: Animal Farm
 ---
 > All animals are equal, but some animals are more equal than others.
 
-![George Orwell’s Animal Farm](https://larb-main-img-cdn.azureedge.net/unsafe/1280x0/filters:format(jpeg)/https%3A%2F%2Fdev.lareviewofbooks.org%2Fwp-content%2Fuploads%2F2013%2F10%2Fanimal-farm-cover-image.jpeg)
+![George Orwell’s Animal Farm](http://www.penguin.com.au/covers/catalog/9780141036137.jpg)
 
 In this review, I will cover George Orwell’s short novel _Animal Farm_ written in 1945. This book is a fictional book, but serves as a commentary through its political jabs towards the former USSR government and Stalin in particular. The plot is simply enough; it is about a group of farm animals on Manor farm that come to the realization that humans produce nothing on the farm while reaping all the benefits by treating the animals like slaves. They take over the farm, and build out their own version of government, with the core fundamentals of “Animalism” and seven commandments. While at first owning the means of production is powerful, the animals find themselves falling into the same immoralities that led them there in the first place. Orwell uses this book to criticize the political maneuvers of totalitarian governments and the unavoidable truth of humanity.
 
