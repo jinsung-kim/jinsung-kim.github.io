@@ -5,7 +5,7 @@ published: true
 ---
 > We cannot fully appreciate the light without the shadows. We have to be thrown off balance to find our footing. It’s better to jump than fall. And here I am.
 
-![Matthew](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.audiobookstore.com%2Fd%2Fu%2Fdu79%2Fdu79-square.jpg&f=1&nofb=1)
+![Matthew](https://cdn.24.co.za/files/Cms/General/d/7535/fd900692f7d348c49c2f974f16b78aa8.jpg)
 
 _Alright, alright, alright._ It's time for a review of my most recent book read, Greenlights. Greenlights is a memoir written by Matthew McConaughey. The book covers a few insightful moments of his life - including his childhood, trips to foreign continents, his search for meaning in his industry, and his search for the perfect partner. There are many pictures and diary entries of his journey thus far, and it is clear what he was trying to achieve by writing this memoir. The book is titled the way it is as McConaughey claims that life is like a traffic sign. According to him, there are moments where we are forced to wait or stop, when things don't go our way, which are yellow and red lights. Green lights are moments when life matches up with God's hand and we are given the go ahead to pursue certain opportunities and events.
 
