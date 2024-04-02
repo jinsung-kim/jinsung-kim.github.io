@@ -6,7 +6,7 @@ layout: post
 
 > Given eternity in which to work, everyone would eventually stumble into the abyss
 
-![Book cover](https://danielmiessler.com/images/mopi.jpg)
+![Book cover](https://upload.wikimedia.org/wikipedia/en/c/cf/The_Metamorphosis_of_Prime_Intellect_%28cover%29.jpg)
 
 In _The Metamorphosis of Prime Intellect_, Roger Williams explores the nature of human desire and the abuses of technology by painting a picture of a post-singularity world. It takes place approximately six hundred years in the future, where humans are given godlike control over their environments and are able to do anything, made possible by the supercomputer known as Prime Intellect who has managed to control all aspects of matter through computation.
 
