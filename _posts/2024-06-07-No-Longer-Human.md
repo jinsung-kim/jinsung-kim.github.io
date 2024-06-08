@@ -15,4 +15,4 @@ The final section depicts Yozo's ultimate downfall, where his agonies culminate,
 
 Given the popularity of this book, it's evident that the nonhuman way Yozo feels is actually very human. We chase the top of the hierarchical ladder, deal with imposter syndrome, and struggle to understand how this world operates. Yozo must have been disgusted by the mere thought that he is not alone.
 
-**Overall Rating: 7/10
+**Overall Rating: 7/10**
