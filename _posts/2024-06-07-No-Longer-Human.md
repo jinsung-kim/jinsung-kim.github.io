@@ -13,6 +13,6 @@ The final section depicts Yozo's ultimate downfall, where his agonies culminate,
 
 > Unhappiness. There are all kinds of unhappy people in this world. I suppose it would be no exaggeration to say that the world is composed entirely of unhappy people. But those people can fight their unhappiness with society fairly and squarely, and society for its part easily understands and sympathizes with such struggles. My unhappiness stemmed entirely from my own vices, and I had no way of fighting anybody... Am I what they call and egoist? Or am I the opposite, a man of excessively weak spirit? I really don't know myself, but since I seem in either case to be a mass of vices, I drop steadily, inevitably, into unhappiness, and I have no specific plan to stave off my descent.
 
-Given the popularity of this book, it's evident that the nonhuman way Yozo feels is actually very human. We chase the top of the hierarchical ladder, deal with imposter syndrome, and struggle to understand how this world operates. Yozo must have been disgusted by the mere thought that he is not alone.
+Given the popularity of this book, it's evident that the nonhuman way Yozo felt is actually very human. We chase the top of the hierarchical ladder, deal with imposter syndrome, and struggle to understand how this world operates. Yozo would have been disgusted by the mere thought that he is not alone.
 
 **Overall Rating: 7/10**
