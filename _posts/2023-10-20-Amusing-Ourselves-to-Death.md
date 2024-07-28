@@ -5,7 +5,7 @@ published: true
 
 ![Book Cover](https://achievement.org/wp-content/uploads/2016/04/amusing-ourselves-499x760.jpg)
 
-Recently I completed _Amusing Ourselves to Death_ by Neil Postman, a rather persuasive book about the effects of television on politics, religion, and journalism. I had previously quoted it in my review of _Brave New World_ to illustrate the contrast between Huxley and Orwell's _1984_. However, I recently revisited it to dissect Postman's observations on public discourse and contemporary affairs. Despite its initial publication in 1985, it's astonishing how relevant much of its content remains and how applicable it is to the modern era of short-form video feeds and the hidden implications of social media.
+Recently I completed _Amusing Ourselves to Death_ by Neil Postman, a rather persuasive book about the effects of television on politics, religion, and journalism. I had previously quoted it in my review of _Brave New World_ to illustrate the contrast between Huxley and Orwell's _1984_. I recently revisited it to dissect Postman's observations on public discourse and contemporary affairs. Despite its initial publication in 1985, it's astonishing how relevant much of its content remains and how applicable it is to the modern era of short-form video feeds and the hidden implications of social media.
 
 The book is really a very long and compelling thesis on how American society has fallen into a state of ignorance. Despite its origins with capable intellectuals, Postman argues that it took just two centuries and a communication revolution to regress entirely.
 
