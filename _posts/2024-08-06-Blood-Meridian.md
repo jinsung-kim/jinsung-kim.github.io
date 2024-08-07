@@ -5,7 +5,7 @@ published: true
 
 ![Blood Meridian Cover](https://preview.redd.it/a-cover-for-blood-meridian-v0-wkgmu20372db1.jpg?auto=webp&s=9488893c9937860b7f9801ac8feae99d198ea1bc)
 
-Blood Meridian is a critically acclaimed Western novel written by Cormac McCarthy, based on historical events from the 1850s along the Texas-Mexico border. The book follows the narrative of an unnamed Tennessean kid who encounters a gang of scalp hunters driven by a thirst for fortune and debauchery. As he witnesses the violent acts of each character, McCarthy explores themes of the decay of Christianity and the inherent evil in all of humanity.
+_Blood Meridian_ is a critically acclaimed Western novel written by Cormac McCarthy, based on historical events from the 1850s along the Texas-Mexico border. The book follows the narrative of an unnamed Tennessean kid who encounters a gang of scalp hunters driven by a thirst for fortune and debauchery. As he witnesses the violent acts of each character, McCarthy explores themes of the decay of Christianity and the inherent evil in all of humanity.
 
 The book opens with a scene in a small town where a judge interrupts a sermon to accuse the priest of pedophilia. As the judge incites the congregation, one of them shoots the priest, and the judge makes his exit, observing a hotel burning down.
 
