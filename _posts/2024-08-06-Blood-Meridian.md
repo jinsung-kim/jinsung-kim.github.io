@@ -1,3 +1,6 @@
+---
+published: true
+---
 > "This is the nature of war, whose stake is at once the game and the authority and the justification. Seen so, war is the truest form of divination. It is the testing of one's will and the will of another within that larger will which because it binds them is therefore forced to select. War is the ultimate game because war is at last a forcing of the unity of existence. War is god."
 
 ![Blood Meridian Cover](https://preview.redd.it/a-cover-for-blood-meridian-v0-wkgmu20372db1.jpg?auto=webp&s=9488893c9937860b7f9801ac8feae99d198ea1bc)
