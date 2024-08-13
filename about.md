@@ -14,7 +14,7 @@ I try to only review books that I have completed - which is the reason the ratin
 
 ### What are you currently reading?
 
-Infinite Jest by David Foster Wallace
+_Infinite Jest_ by David Foster Wallace
 
 ### Favorites?
 
