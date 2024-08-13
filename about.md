@@ -12,6 +12,10 @@ A place to where I write my thoughts on books I have read. Due to the volume of 
 
 I try to only review books that I have completed - which is the reason the ratings skew towards higher scores. Books not fully completed are marked with a **DNF**.
 
+### What are you currently reading?
+
+Infinite Jest by David Foster Wallace
+
 ### Favorites?
 
 In no particular order:
