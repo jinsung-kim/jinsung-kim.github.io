@@ -27,4 +27,6 @@ These stylistic choices make reading his lengthy, run-on sentences and highly de
 
 The Biblical references tied to each violent act in _Blood Meridian_ lead me to reflect on the nature of violence and its repetition. In the past, reading the Bible, I could not comprehend how violent the Benjamites were so cruel in war. Now, I am confronted with the unsettling reality that we are all capable of such evil. _Blood Meridian_ reveals that we can destroy beauty without discernible reason.
 
+> In those days Israel had no king; everyone did as they saw fit. (Judges 21:25)
+
 **Overall Rating: 8/10**
