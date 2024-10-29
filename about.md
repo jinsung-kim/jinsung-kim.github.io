@@ -14,7 +14,7 @@ I try to only review books that I have completed - which is the reason the ratin
 
 ### What are you currently reading?
 
-_Infinite Jest_ by David Foster Wallace
+_No Time to Spare_ by Ursula K. Le Guin
 
 ### Favorites?
 
