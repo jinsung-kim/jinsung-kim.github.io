@@ -20,11 +20,15 @@ _No Time to Spare_ by Ursula K. Le Guin
 
 In no particular order:
 
+Nonfiction:
 - [The White Album](https://jinsung-kim.github.io/The-White-Album/)
 - [Ametora](https://jinsung-kim.github.io/ametora/)
 - [Shoe Dog](https://jinsung-kim.github.io/shoe-dog/)
 - [Steve Jobs](https://jinsung-kim.github.io/steve-jobs/)
+
+Fiction:
 - [Brave New World](https://jinsung-kim.github.io/Brave-New-World/)
 - [The Stranger](https://jinsung-kim.github.io/The-Stranger/)
+- [Infinite Jest](https://jinsung-kim.github.io/Infinite-Jest/)
 - [Crime and Punishment](https://jinsung-kim.github.io/Crime-and-Punishment/)
 - [Calvin and Hobbes](https://jinsung-kim.github.io/Calvin-and-Hobbes/)
