@@ -14,9 +14,9 @@ I try to only review books that I have completed - which is the reason the ratin
 
 ### What are you currently reading?
 
-_No Time to Spare_ by Ursula K. Le Guin
+_The Brothers Karamazov_ by Fyodor Dostoevsky
 
-### Favorites?
+### Favorites books?
 
 In no particular order:
 
@@ -32,3 +32,10 @@ Fiction:
 - [Infinite Jest](https://jinsung-kim.github.io/Infinite-Jest/)
 - [Crime and Punishment](https://jinsung-kim.github.io/Crime-and-Punishment/)
 - [Calvin and Hobbes](https://jinsung-kim.github.io/Calvin-and-Hobbes/)
+
+### Favorite authors?
+
+Again, in no particular order:
+- David Foster Wallace
+- Joan Didion
+- Fyodor Dostoevsky
