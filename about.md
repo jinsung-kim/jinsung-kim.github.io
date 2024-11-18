@@ -35,7 +35,5 @@ Fiction:
 
 ### Favorite authors?
 
-Again, in no particular order:
 - David Foster Wallace
 - Joan Didion
-- Fyodor Dostoevsky
