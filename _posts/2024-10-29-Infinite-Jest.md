@@ -19,6 +19,6 @@ In many ways, Wallace's novel is a lot scarier than the traditional sort of sci-
 
 His vision is shockingly grounded—a society over-medicated, drowning in corporate branding, and spiraling into geopolitical absurdity. My main takeaway from Wallace is that growth is uncomfortable. Wallace seems to imply that we must sit in a room and think about difficult things without being rewarded for it. This growth isn't sexy, yet it is the way revolution moves. You could argue, in a way, that the act of reading the book is just that in itself.
 
-**Overall Rating: 9/10**
+**Overall Rating: 10/10**
 
 If this book is too intimidating (which it was for me), I recommend [Consider the Lobster](https://jinsung-kim.github.io/Consider-the-Lobster/), a collection of short essays that he wrote as a journalist. It really showcases his sensitive soul, which lead me to embark on this three month challenge.
