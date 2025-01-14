@@ -14,7 +14,9 @@ I try to only review books that I have completed - which is the reason the ratin
 
 ### What are you currently reading?
 
-_The Brothers Karamazov_ by Fyodor Dostoevsky
+_The Brothers Karamazov_ by Fyodor Dostoevsky (roughly 80% of the way done)
+
+I'm currently exploring Russian and Greek classics. I've accepted that I'll only scratch the surface of great classic works in my lifetime, which is why I have little interest in most modern literature.
 
 ### Favorites books?
 
@@ -24,14 +26,14 @@ Nonfiction:
 - [The White Album](https://jinsung-kim.github.io/The-White-Album/) - All time California classic.
 - [Ametora](https://jinsung-kim.github.io/ametora/) - Japanese Americana style.
 - [Shoe Dog](https://jinsung-kim.github.io/shoe-dog/) - The origin of Nike.
-- [Steve Jobs](https://jinsung-kim.github.io/steve-jobs/) - A great biography.
+- [Steve Jobs](https://jinsung-kim.github.io/steve-jobs/) - A great biography on a fascinating human.
 
 Fiction:
 - [Brave New World](https://jinsung-kim.github.io/Brave-New-World/) - More relevant than 1984.
 - [The Stranger](https://jinsung-kim.github.io/The-Stranger/) - An entry point to Camus.
-- [Infinite Jest](https://jinsung-kim.github.io/Infinite-Jest/) - Nihilism, free-will, and so much more.
-- [Crime and Punishment](https://jinsung-kim.github.io/Crime-and-Punishment/) - Russian classic.
-- [Calvin and Hobbes](https://jinsung-kim.github.io/Calvin-and-Hobbes/) - A childhood favorite.
+- [Infinite Jest](https://jinsung-kim.github.io/Infinite-Jest/) - Nihilism and free-will woven into a beautiful tale.
+- [Crime and Punishment](https://jinsung-kim.github.io/Crime-and-Punishment/) - A Russian classic.
+- [Calvin and Hobbes](https://jinsung-kim.github.io/Calvin-and-Hobbes/) - Not really "literature", but a childhood favorite.
 
 ### Favorite authors?
 
