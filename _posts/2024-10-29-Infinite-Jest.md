@@ -21,4 +21,6 @@ His vision is shockingly grounded—a society over-medicated, drowning in corpor
 
 **Overall Rating: 10/10**
 
+This is my favorite book of all time.
+
 If this book is too intimidating (which it was for me), I recommend [Consider the Lobster](https://jinsung-kim.github.io/Consider-the-Lobster/), a collection of short essays that he wrote as a journalist. It really showcases his sensitive soul, which lead me to embark on this three month challenge.
