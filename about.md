@@ -12,11 +12,11 @@ A place to where I write my thoughts on books I have read. Due to the volume of 
 
 I try to only review books that I have completed - which is the reason the ratings skew towards higher scores. Books not fully completed are marked with a **DNF**. I do go back sometimes to update scores.
 
+I usually have a personal copy of most reviewed books that I am more than happy to lend out to personal friends.
+
 ### What are you currently reading?
 
-_The Brothers Karamazov_ by Fyodor Dostoevsky (roughly 80% of the way done)
-
-I'm currently exploring Russian and Greek classics. I've accepted that I'll only scratch the surface of great classic works in my lifetime, which is why I have little interest in most modern literature.
+_The Master and Margarita_ by Mikhail Bulgakov
 
 ### Favorites books?
 
