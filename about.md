@@ -16,7 +16,8 @@ I usually have a personal copy of most reviewed books that I am more than happy 
 
 ### What are you currently reading?
 
-_The Master and Margarita_ by Mikhail Bulgakov
+_Chronicle of a Death Foretold_
+by Gabriel García Márquez 
 
 ### Favorites books?
 
