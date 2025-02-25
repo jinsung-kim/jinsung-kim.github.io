@@ -1,3 +1,6 @@
+---
+published: true
+---
 > Manuscripts don't burn.
 
 ![Master and Margarita](https://images.penguinrandomhouse.com/cover/9780143108276)
