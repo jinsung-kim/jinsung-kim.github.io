@@ -23,4 +23,4 @@ In a lot of ways, Calvin's constant battle to escape the mundane mirrors the exi
 
 Calvin and Hobbes serves as a great reminder to seek out the portals of adventure in the midst of the mundane. It encourages us to approach life with that childlike curiosity, and learn to appreciate the simplest moments. Watterson prompts us to live in the present, even in the moments of boredom and stillness. Given our fast paced technology driven world, Calvin and Hobbes reminds me to disconnect more frequently and explore the outdoors.
 
-**Overall Rating: 8/10**
+**NR**
