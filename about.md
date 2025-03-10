@@ -10,14 +10,13 @@ published: true
 Welcome...
 A place to where I write my thoughts on books I have read. Due to the volume of books that I read, it is often easy for myself to forget which to recommend to others. For this reason, this page is mainly for myself to reflect on the literature that I come across.
 
-I try to only review books that I have completed - which is the reason the ratings skew towards higher scores. Books not fully completed are marked with a **DNF**. I do go back sometimes to update scores.
+I try to only review books that I have completed - which is the reason the ratings skew towards higher scores. Books not fully completed are marked with a **DNF**. Books I deem too short are marked with a **NR**.
 
 I usually have a personal copy of most reviewed books that I am more than happy to lend out to personal friends.
 
 ### What are you currently reading?
 
-_Chronicle of a Death Foretold_
-by Gabriel García Márquez 
+_One Hundred Years of Solitude_ by Gabriel García Márquez 
 
 ### Favorites books?
 
