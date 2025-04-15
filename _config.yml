@@ -84,3 +84,5 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
+
+posthog_key: ENV["POSTHOG_KEY"]
