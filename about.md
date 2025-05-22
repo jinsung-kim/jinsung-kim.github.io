@@ -16,7 +16,7 @@ I usually have a personal copy of most reviewed books that I am more than happy 
 
 ### What are you currently reading?
 
-_One Hundred Years of Solitude_ by Gabriel García Márquez 
+_Ficciones_ by Jorge Luis Borges
 
 ### Favorites books?
 
